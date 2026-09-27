@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /Orinoko/
+
+Sitemap: https://gustavol266.github.io/Orinoko/sitemap.xml
