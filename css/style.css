@@ -385,8 +385,7 @@ nav > a:hover {
   font-size: clamp(7rem, 16vw, 15rem);
   letter-spacing: -0.05em;
   line-height: 1;
-  color: #865240;
-  opacity: 0.45;
+  color: #c58a62;
   pointer-events: none;
 }
 .gallery-grid > div:nth-child(2) {
