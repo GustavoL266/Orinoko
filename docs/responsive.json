@@ -1,0 +1,59 @@
+{
+  "url": "https://gustavol266.github.io/Orinoko/",
+  "viewports": [
+    {
+      "client": 305,
+      "menu": "flex",
+      "nav": "none",
+      "overflow": false,
+      "scroll": 305,
+      "unlabeled": 0,
+      "width": 320
+    },
+    {
+      "client": 360,
+      "menu": "flex",
+      "nav": "none",
+      "overflow": false,
+      "scroll": 360,
+      "unlabeled": 0,
+      "width": 375
+    },
+    {
+      "client": 375,
+      "menu": "flex",
+      "nav": "none",
+      "overflow": false,
+      "scroll": 375,
+      "unlabeled": 0,
+      "width": 390
+    },
+    {
+      "client": 753,
+      "menu": "none",
+      "nav": "flex",
+      "overflow": false,
+      "scroll": 753,
+      "unlabeled": 0,
+      "width": 768
+    },
+    {
+      "client": 1009,
+      "menu": "none",
+      "nav": "flex",
+      "overflow": false,
+      "scroll": 1009,
+      "unlabeled": 0,
+      "width": 1024
+    },
+    {
+      "client": 1425,
+      "menu": "none",
+      "nav": "flex",
+      "overflow": false,
+      "scroll": 1425,
+      "unlabeled": 0,
+      "width": 1440
+    }
+  ]
+}

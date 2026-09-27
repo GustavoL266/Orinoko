@@ -18,11 +18,22 @@ Uma presença digital com composição editorial, conteúdo pesquisado e caminho
 
 ## ✨ Preview
 
-As capturas reais de desktop e celular serão adicionadas após a validação visual da versão publicada. Não foram usados mockups ou capturas geradas.
+Capturas reais da versão publicada, realizadas em viewports de **1440 × 1000** e **390 × 844 px**. Sem mockups ou geração de imagens.
+
+![Página inicial da Orinoko em desktop](./assets/readme/preview-desktop.webp)
+
+<details>
+<summary>Ver a versão mobile</summary>
+
+<img src="./assets/readme/preview-mobile.webp" alt="Página inicial da Orinoko em celular" width="375" />
+
+</details>
 
 ## 🌐 Site online
 
-Publicação no GitHub Pages em preparação. O endereço será registrado após a confirmação do serviço.
+**Acesse:** [Padaria Orinoko](https://gustavol266.github.io/Orinoko/).
+
+Publicado no GitHub Pages a partir de `main`, diretório `/`.
 
 **Repositório:** [GustavoL266/Orinoko](https://github.com/GustavoL266/Orinoko).
 
@@ -69,14 +80,14 @@ Não foram utilizadas imagens geradas por IA, bancos de imagens, fotos de outras
 
 ## Tecnologias
 
-| Camada              | Tecnologia                                      |
-| ------------------- | ----------------------------------------------- |
-| Estrutura           | HTML5 semântico                                 |
-| Apresentação        | CSS3, Grid, Flexbox e propriedades customizadas |
-| Interações          | JavaScript, sem framework                       |
-| Versionamento       | Git e GitHub                                    |
-| Hospedagem prevista | GitHub Pages, branch `main`, diretório `/`      |
-| Auditoria estática  | Python, biblioteca padrão                       |
+| Camada             | Tecnologia                                      |
+| ------------------ | ----------------------------------------------- |
+| Estrutura          | HTML5 semântico                                 |
+| Apresentação       | CSS3, Grid, Flexbox e propriedades customizadas |
+| Interações         | JavaScript, sem framework                       |
+| Versionamento      | Git e GitHub                                    |
+| Hospedagem         | GitHub Pages, branch `main`, diretório `/`      |
+| Auditoria estática | Python, biblioteca padrão                       |
 
 O site não usa backend nem exige instalação de dependências para funcionar. Não foi atribuída licença de uso ao projeto: isso também não concede direitos sobre marcas, fotografias ou textos de terceiros.
 
@@ -88,11 +99,15 @@ Orinoko/
 │   ├── icons/
 │   │   └── favicon.svg
 │   └── readme/
+│       ├── preview-desktop.webp
+│       └── preview-mobile.webp
 ├── css/
 │   └── style.css
 ├── docs/
 │   ├── RESEARCH.md
-│   └── VALIDATION.md
+│   ├── VALIDATION.md
+│   ├── lighthouse-summary.json
+│   └── responsive.json
 ├── js/
 │   └── main.js
 ├── scripts/
@@ -102,10 +117,12 @@ Orinoko/
 ├── 404.html
 ├── IMAGE_SOURCES.md
 ├── README.md
-└── index.html
+├── index.html
+├── robots.txt
+└── sitemap.xml
 ```
 
-Pastas de fotografias e de logotipo definitivo não foram criadas porque não há assets autorizados para preenchê-las. As capturas do projeto serão armazenadas em `assets/readme/`.
+Pastas de fotografias e de logotipo definitivo não foram criadas porque não há assets autorizados para preenchê-las. As capturas reais do projeto estão em `assets/readme/`.
 
 ## Executando localmente
 
@@ -143,7 +160,7 @@ Ao editar o telefone ou horários, mantenha os dados visíveis, links e JSON-LD 
 
 ## Responsividade
 
-O layout considera celulares, tablets, notebooks e desktops. A validação planejada contempla **320, 375, 390, 768, 1024 e 1440 px**, incluindo menu, largura do conteúdo e ausência de rolagem horizontal. Os resultados efetivos são registrados no [relatório de validação](./docs/VALIDATION.md).
+O layout foi testado em **320, 375, 390, 768, 1024 e 1440 px**, cobrindo celulares, tablets, notebooks e desktops. Não houve rolagem horizontal nas seis larguras. O menu mobile foi testado com teclado e fechamento por Escape. Consulte os resultados no [relatório de validação](./docs/VALIDATION.md).
 
 ## Performance e acessibilidade
 
@@ -156,7 +173,7 @@ O layout considera celulares, tablets, notebooks e desktops. A validação plane
 - Metadados locais e dados estruturados factuais.
 - Ausência de fotografias pesadas e de `og:image` sem origem autorizada.
 
-O objetivo de Lighthouse é 90+ nas quatro categorias. Nenhuma nota é afirmada sem uma execução registrada; veja o relatório para medições e limitações.
+**PageSpeed Insights / Lighthouse: 100 em desempenho, acessibilidade, boas práticas e SEO, em mobile e desktop.** Medição da versão publicada em 27/09/2026; CLS 0 em ambos. São resultados de laboratório sujeitos a variação, sem dados de campo disponíveis. Consulte o [relatório de validação](./docs/VALIDATION.md) para as evidências e o escopo dos testes manuais.
 
 ## 📍 Padaria Orinoko
 
@@ -173,11 +190,11 @@ Telefone: [(19) 97411-1822](tel:+5519974111822)
 | Sábado           | 14h–20h            |
 | Domingo          | 9h–17h             |
 
-Dados consultados em 26/09/2026. Instagram oficial não confirmado. O link de WhatsApp usa o número solicitado no briefing; o funcionamento do canal deve ser confirmado com a proprietária.
+Dados consultados em 26/09/2026. Instagram oficial não confirmado. O link de WhatsApp abriu o perfil **Orinoko**, com o número e a mensagem solicitados; nenhuma mensagem foi enviada. As condições de atendimento devem ser confirmadas com a proprietária.
 
 ## Status
 
-**Implementação pronta; publicação e validação visual em andamento.**
+**Projeto demonstrativo concluído e publicado.**
 
 As limitações de fotografias e de informações ainda não confirmadas estão documentadas. Não se declara uma parceria ou aprovação institucional.
 

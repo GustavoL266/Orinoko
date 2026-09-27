@@ -37,7 +37,12 @@ O círculo decorativo em CSS e os elementos tipográficos são formas não repre
 
 ## Capturas do projeto
 
-As capturas em `assets/readme/` mostram o site implementado e são destinadas à documentação, conforme a exceção expressa no briefing. Não são fotografias comerciais. A origem e os tamanhos das capturas são registrados no relatório de validação.
+As capturas mostram a versão final publicada em [GitHub Pages](https://gustavol266.github.io/Orinoko/), em 27/09/2026. São destinadas à documentação, conforme a exceção expressa no briefing, e não são fotografias comerciais. Foram apenas convertidas de PNG para WebP, sem alteração visual do conteúdo.
+
+| Arquivo                              | Origem                                             | Uso                       |
+| ------------------------------------ | -------------------------------------------------- | ------------------------- |
+| `assets/readme/preview-desktop.webp` | Captura real do projeto em viewport 1440 × 1000 px | Preview desktop no README |
+| `assets/readme/preview-mobile.webp`  | Captura real do projeto em viewport 390 × 844 px   | Preview mobile no README  |
 
 ## Auditoria
 

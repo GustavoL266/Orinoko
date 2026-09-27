@@ -8,22 +8,24 @@ Consulta inicial: **26/09/2026**, horário de São Paulo. A pesquisa antecedeu a
 
 Ficha identificada por nome, endereço e telefone coincidentes com o briefing. O navegador mostrou a categoria, os dados de contato, os horários semanais expandidos, a nota agregada, avaliações individuais e o visualizador de fotos.
 
-| Informação        | Evidência e decisão                                                                                                                                                                              |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Nome              | Padaria Orinoko                                                                                                                                                                                  |
-| Categoria         | Padaria                                                                                                                                                                                          |
-| Endereço          | Av. Dr. Carlos de Campos, 327, Vila Industrial, Campinas/SP, 13035-610                                                                                                                           |
-| Telefone          | (19) 97411-1822                                                                                                                                                                                  |
-| WhatsApp          | Link `wa.me` solicitado pelo usuário para o mesmo número; a ficha confirmou o telefone, mas não exibiu um botão específico de WhatsApp. Operação do canal deve ser confirmada pela proprietária. |
-| Nota              | 4,9/5, 12 avaliações; 11 com cinco estrelas e uma com quatro                                                                                                                                     |
-| Segunda a quarta  | Fechado                                                                                                                                                                                          |
-| Quinta e sexta    | 16h–22h                                                                                                                                                                                          |
-| Sábado            | 14h–20h                                                                                                                                                                                          |
-| Domingo           | 9h–17h                                                                                                                                                                                           |
-| Faixa de preço    | Não apareceu no acesso utilizado. R$ 60–80 não foi publicado.                                                                                                                                    |
-| Instagram oficial | Não apareceu link na ficha acessível; nenhuma conta foi confirmada ou adicionada ao site.                                                                                                        |
-| Website           | A ficha oferecia “Adicionar website”; não exibiu website vinculado.                                                                                                                              |
-| Atendimento       | A ficha se identifica como empresa de empreendedoras; avaliações relatam atendimento atencioso. Não foram afirmados delivery, reservas ou pedidos online.                                        |
+| Informação        | Evidência e decisão                                                                                                                                                                                                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Nome              | Padaria Orinoko                                                                                                                                                                                                                                  |
+| Categoria         | Padaria                                                                                                                                                                                                                                          |
+| Endereço          | Av. Dr. Carlos de Campos, 327, Vila Industrial, Campinas/SP, 13035-610                                                                                                                                                                           |
+| Telefone          | (19) 97411-1822                                                                                                                                                                                                                                  |
+| WhatsApp          | Link `wa.me` solicitado pelo usuário para o mesmo número; a ficha confirmou o telefone, mas não exibiu um botão específico de WhatsApp. O teste posterior abriu o perfil Orinoko; condições de atendimento ainda precisam de confirmação direta. |
+| Nota              | 4,9/5, 12 avaliações; 11 com cinco estrelas e uma com quatro                                                                                                                                                                                     |
+| Segunda a quarta  | Fechado                                                                                                                                                                                                                                          |
+| Quinta e sexta    | 16h–22h                                                                                                                                                                                                                                          |
+| Sábado            | 14h–20h                                                                                                                                                                                                                                          |
+| Domingo           | 9h–17h                                                                                                                                                                                                                                           |
+| Faixa de preço    | Não apareceu no acesso utilizado. R$ 60–80 não foi publicado.                                                                                                                                                                                    |
+| Instagram oficial | Não apareceu link na ficha acessível; nenhuma conta foi confirmada ou adicionada ao site.                                                                                                                                                        |
+| Website           | A ficha oferecia “Adicionar website”; não exibiu website vinculado.                                                                                                                                                                              |
+| Atendimento       | A ficha se identifica como empresa de empreendedoras; avaliações relatam atendimento atencioso. Não foram afirmados delivery, reservas ou pedidos online.                                                                                        |
+
+O teste do link `wa.me` em 27/09/2026 abriu a página de contato do perfil **Orinoko**, com o número e a mensagem do briefing. Nenhuma mensagem foi enviada. Isso confirma o destino do link; políticas e prazos de atendimento ainda precisam de confirmação direta.
 
 ## Fotografias e produtos
 
@@ -57,6 +59,6 @@ As fotografias examinadas mostram tons de madeira, tecidos vermelhos, superfíci
 - Autorização para adotar a proposta e uso do logotipo oficial.
 - Autorização dos titulares para reutilizar fotografias que também estejam na ficha do Google Maps.
 - Endereço da conta oficial do Instagram.
-- Funcionamento do WhatsApp para atendimento.
+- Condições e prazos de atendimento pelo WhatsApp.
 - Cardápio atual, nomes das especialidades e disponibilidade.
 - Horários especiais, feriados e mudanças posteriores à consulta.
