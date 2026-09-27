@@ -49,7 +49,7 @@ for href in page.links:
     if href.startswith('#'):
         assert href[1:] in page.ids, f'Âncora ausente: {href}'
 for asset in page.assets:
-    assert (ROOT / asset).is_file(), f'Asset ausente: {asset}'
+    assert (ROOT / urlparse(asset).path).is_file(), f'Asset ausente: {asset}'
 whatsapp = [href for href in page.links if 'wa.me' in href]
 assert len(whatsapp) >= 4
 for href in whatsapp:
